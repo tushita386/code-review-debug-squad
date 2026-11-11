@@ -1,0 +1,1 @@
+Code review checklist: does the code solve the stated problem, handle empty and invalid input, use clear names, avoid duplicated logic, include tests, and document non-obvious decisions? Prefer small, focused functions and explicit error handling.
